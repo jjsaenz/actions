@@ -9,6 +9,9 @@
 
 _Create a GitHub Action and use it in a workflow._
 
+
+:)
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
